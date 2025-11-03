@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo as seguintes linguagens: Python, Java, SQL, DAX e LaTex;<br>🤔 Procuro ajuda com automatizações em Python;<br>💬 Pergunte-me sobre Data Science; <br> 📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
+<h4 align="left">🔭 Atualmente estou trabalhando na Caixa Consórcio;<br>🌱 Atualmente estou aprendendo as seguintes linguagens: Python, Java, SQL Server e DAX;<br>🤔 Procuro ajuda com automatizações em Python;<br>💬 Pergunte-me sobre Data Science; <br> 📫 Como entrar em contato: gabrielsilva.sr@outlook.com</h4>
 
 ### Conecte-se comigo:
 
